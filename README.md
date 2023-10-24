@@ -1,4 +1,4 @@
-![logo](https://github.com/RezaEftekhar/Reza-Eftekhar/blob/main/githubphoto2.jpeg)
+
 <h1 align="center">Hi 👋, I'm Reza Eftekhar</h1>
 <h3 align="center">Passionate Flutter Enthusiast,Weaving Pixel-perfect Wonders with Every Line of Code!</h3>
 
